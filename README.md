@@ -12,15 +12,6 @@
     </div>
 </div>
 
-<p align="left">
-  <a href="https://github.com/Bielzada444">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bielzada444&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de Bielzada444" />
-  </a>
-  <a href="https://github.com/Bielzada444">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielzada444&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas por Bielzada444" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre Mim
