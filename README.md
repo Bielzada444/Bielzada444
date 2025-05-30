@@ -1,13 +1,6 @@
 ## Olá pessoas 👋 Eu sou o Gabriel Alexandre!
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="text-align: center;">
-        <a href="https://github.com/Bielzada444">
-            <img style="width: 100px; height: 100px;" src="https://i.pinimg.com/736x/9e/4e/a2/9e4ea2967ff33395fb5fa9e5892de67a.jpg">
-        </a>
-        <a href="https://github.com/Bielzada444">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=770977&random=false&width=435&lines=Hi%2C+Eu+sou+Gabriel+Alexandre;Bem+vindo+ao+meu+git" alt="Typing SVG"         
-            style="height: 100%; width:80%;">
-        </a>
     </div>
         <div style="text-align: center;">
         <a href="https://github.com/Bielzada444">
