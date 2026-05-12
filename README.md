@@ -1,33 +1,25 @@
 ## Olá pessoas 👋 Eu sou o Gabriel Alexandre!
-<div style="display: flex; flex-direction: column; align-items: center;">
+
+<details>
+  <summary>📈 GitHub Stats</summary>
     <div style="text-align: center;">
-    </div>
-        <div style="text-align: center;">
-        <a href="https://github.com/Bielzada444">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bielzada444&show_icons=true&theme=jolly&border_color=770977&bg_color=000" alt="GitHub stats"/>
+        <a href="https://www.instagram.com/marcin.sla">
+            <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=Bielzada444&show_icons=true&theme=jolly&border_color=770977&bg_color=000" alt="GitHub stats"/>
         </a>
-        <a href="https://github.com/Bielzada444">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bielzada444&layout=compact&langs_count=7&theme=jolly&border_color=770977&bg_color=000"/>
+        <a href="https:">
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bielzada444&theme=jolly&background=000000&border=770977" alt="GitHub streak"/>
         </a>
     </div>
-</div>
+</details>
 
 ---
-
 ### 👨‍💻 Sobre Mim
 
 <p align="justify">
   🎓 Graduando em Ciência da Computação na Universidade de Brasília (UnB). <br>
-  💡 Tenho conhecimentos em C, C++ e Python, e estou buscando me tornar um profissional na área de cibersegurança. <br>
+  🎓 Operador de Computador na Escola Técnica Deputado Juarezão (Etbraz). <br>
+  🎓 Instalador e Reparador de Redes de Computadores na Escola Técnica Deputado Juarezão (Etbraz). <br>
 </p>
-
----
-
-### 🚀 Meus Interesses Atuais
-
-* 🔭 **Trabalhando em:** Atualmente, estou focado em um projeto de sistema de investimentos utilizando C++ com Programação Orientada a Objetos. Em breve, pretendo me aprofundar em projetos e estudos na área de Cibersegurança.
-* 🌱 **Aprendendo e Aperfeiçoando:** C++ e Python.
-* 👯 **Procurando colaborar em:** Projetos de Cibersegurança.
 
 ---
 
@@ -35,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github" />
   </a>
 </p>
 
