@@ -76,4 +76,3 @@ Meu foco converge na intersecção de três áreas que considero fundamentais pa
 </p>
 
 ---
-*"A computação é o futuro, mas a segurança e a inteligência são o que o tornam possível."*
