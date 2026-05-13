@@ -3,33 +3,64 @@
 <details>
   <summary>📈 GitHub Stats</summary>
     <div style="text-align: center;">
-        <a href="https://www.instagram.com/marcin.sla">
+        <a href="https://github.com/Bielzada444">
             <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=Bielzada444&show_icons=true&theme=jolly&border_color=770977&bg_color=000" alt="GitHub stats"/>
         </a>
-        <a href="https:">
+        <a href="https://github.com/Bielzada444">
             <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bielzada444&theme=jolly&background=000000&border=770977" alt="GitHub streak"/>
         </a>
     </div>
 </details>
 
 ---
-### 👨‍💻 Sobre Mim
+
+### 👨‍💻 Sobre Mim & O que estou fazendo agora
 
 <p align="justify">
-  🎓 Graduando em Ciência da Computação na Universidade de Brasília (UnB). <br>
-  🎓 Operador de Computador na Escola Técnica Deputado Juarezão (Etbraz). <br>
-  🎓 Instalador e Reparador de Redes de Computadores na Escola Técnica Deputado Juarezão (Etbraz). <br>
+  🎓 Graduando em <b>Ciência da Computação na Universidade de Brasília (UnB)</b>, atualmente no 5º semestre. Trabalho para equilibrar o rigor acadêmico com a exploração de tecnologias de ponta.
+</p>
+
+* **🚀 Inteligência Artificial (IEEE Computer Society & Acadêmico):** No grupo de estudos, foco em Engenharia de Prompt, LLMs, **RAG (Retrieval-Augmented Generation)**, **MCP (Model Context Protocol)** e desenvolvimento de agentes. Na disciplina de Introdução à IA, estudo e implemento arquiteturas como **MLP, SOM, CNN e RNN**.
+* **🏆 Programação Competitiva:** Membro do projeto de extensão **UnBallon**, aprimorando lógica e algoritmos avançados utilizando **C++**.
+* **📚 Atualmente cursando:**
+    * **Teoria e Aplicação de Grafos:** Projeto de métricas desenvolvido em Colab.
+    * **Segurança Computacional:** Estudo de Criptografia Simétrica/Assimétrica e algoritmos de proteção.
+    * **Sistemas de Informação.**
+
+---
+
+### 🧠 Interesses e Pesquisa
+
+Meu foco converge na intersecção de três áreas que considero fundamentais para o futuro:
+1.  **IA & LLMs:** Desenvolvimento de agentes inteligentes e manipulação de modelos de linguagem.
+2.  **Cibersegurança:** Iniciando exploração na área (Certificado Cisco Introduction to Cybersecurity) com base sólida em Redes de Computadores.
+3.  **Computação Quântica:** Estudando os impactos da computação do futuro na criptografia e processamento de dados.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  </a>
+</p>
+
+**Ferramentas e Ambiente:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,colab,linux" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
+### 📊 Projetos em Destaque (Em atualização)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github" />
-  </a>
-</p>
+* 🤖 **Agente Inteligente (IEEE):** Agente desenvolvido com foco em técnicas de prompt e integração com LLMs. (Repositório em breve)
+* 🌐 **PyDash (Redes):** Implementação de algoritmo para a disciplina de Redes de Computadores. (Repositório em breve)
+* 🏆 **Competitive Programming:** Soluções de problemas do UnBallon e maratonas de programação. (Repositório em breve)
 
 ---
 
@@ -45,3 +76,4 @@
 </p>
 
 ---
+*"A computação é o futuro, mas a segurança e a inteligência são o que o tornam possível."*
