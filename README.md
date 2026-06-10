@@ -60,7 +60,7 @@ Meu foco converge na intersecção de três áreas que considero fundamentais pa
 ### 📊 Projetos em Destaque (Em atualização)
 
 * 🤖 **[Agente de IA Simples (IEEE)](https://github.com/Bielzada444/irel-event-assistant):** Agente desenvolvido com foco em técnicas de prompt e integração com LLMs.
-* 🌐 **PyDash (Redes):** Implementação de algoritmo para a disciplina de Redes de Computadores. (Repositório em breve)
+* 🌐 **[PyDash (Redes)](https://github.com/Bielzada444/pydash-bola):** Implementação de algoritmo para a disciplina de Redes de Computadores.
 * 🏆 **Competitive Programming:** Soluções de problemas do UnBallon e maratonas de programação. (Repositório em breve)
 
 ---
