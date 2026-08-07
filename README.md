@@ -17,16 +17,11 @@
 ### 👨‍💻 Sobre Mim & O que estou fazendo agora
 
 <p align="justify">
-  🎓 Graduando em <b>Ciência da Computação na Universidade de Brasília (UnB)</b>, atualmente no 5º semestre. Trabalho para equilibrar o rigor acadêmico com a exploração de tecnologias de ponta.
+  🎓 Graduando em <b>Ciência da Computação na Universidade de Brasília (UnB)</b>, atualmente no 6º semestre. Trabalho para equilibrar o rigor acadêmico com a exploração de tecnologias de ponta.
 </p>
 
 * **🚀 Inteligência Artificial (IEEE Computer Society & Acadêmico):** No grupo de estudos, foco em Engenharia de Prompt, LLMs, RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol) e desenvolvimento de agentes. Na disciplina de Introdução à IA, estudo arquiteturas de Rede Neurais como MLP, SOM, CNN e RNN.
 * **🏆 Programação Competitiva:** Membro do projeto de extensão **UnBallon**, aprimorando lógica e algoritmos avançados utilizando **C++**.
-* **📚 Atualmente cursando:**
-    * **Teoria e Aplicação de Grafos:** Projeto de métricas desenvolvido em Colab.
-    * **Segurança Computacional:** Estudo de Criptografia Simétrica/Assimétrica e algoritmos de proteção.
-    * **Sistemas de Informação:** Estudo de Análises de Requesitos, Backlog e Modelagem de Dados.
-    * **Introdução a Inteligência Artificial:** EStudos em Machine Learning.
 
 ---
 
